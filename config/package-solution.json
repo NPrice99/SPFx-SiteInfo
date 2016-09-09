@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "site-info-webpart-client-side-solution",
+    "id": "27a56392-95ef-4329-b084-6a64145bc6bd",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "site-info-webpart.spapp"
+  }
+}
